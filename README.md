@@ -23,24 +23,18 @@ This is a multiplayer reaction time game implemented using **Python** and **sock
 - Basic knowledge of command-line usage
 
 ### Steps:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/reaction-time-game.git
-   cd reaction-time-game
-   ```
-
-2. Run the **server** (host machine):
+1. Run the **server** (host machine):
    ```bash
    python server_final.py
    ```
 
-3. Run the **clients** (on two different terminals or machines):
+2. Run the **clients** (on two different terminals or machines):
    ```bash
    python client1_final.py
    python client2_final.py
    ```
 
-4. The game will start automatically once both players connect.
+3. The game will start automatically once both players connect.
 
 ## Gameplay Instructions
 - After connecting, players will receive a countdown before the game starts.
